@@ -1,4 +1,4 @@
-h1. Welcome to Apache Flume!
+h1. Welcome to Apache Flume! Learn it from 1.5
 
 Apache Flume is a distributed, reliable, and available service for efficiently
 collecting, aggregating, and moving large amounts of log data. It has a simple
